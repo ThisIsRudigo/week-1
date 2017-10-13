@@ -1,0 +1,84 @@
+#cup{
+	color: purple;
+	margin-top: 20px;
+	margin-left: 10px;
+	line-height: 3px;
+}
+#hh{
+background-color: #428000;
+color: white;
+line-height: 3px;
+width: 200px;
+border-radius:5px;
+margin-top: 20px;
+
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+.brand img{
+	height: 200px;
+	width: 270px;
+	padding-left: 10px;
+	margin-top: 40px;
+}
+.brand .row{
+	margin-top: 10px;
+	padding: 40px;
+}
+
+nav{
+	background-color: #804000;
+	margin-top: 5em;
+}
+.navbar-nav a{
+ color: white;
+ margin-left: 5em;
+}
+.link1{
+	background-color: #428000;
+	height: 18em;
+}
+.link2{
+	background-color: #fff;
+	height: 17.5em;
+	margin-top: 0.2em;
+	margin-left: -0.91em;
+	padding-top: 0.3em;
+	width: 20em;
+}
+.main-link li{
+	background-color: #428000;
+ ''	color: #fff;
+	width: 19.5em;
+	margin-left: -0.91em;
+	padding-top: 0.6em;
+	height: 2.8em;
+}
+.main-link li a{
+	color: #fff;
+	margin-left: 1em;
+	border-radius: 0em;
+	margin-top: 5em;
+	text-decoration: none;
+}
+
+#gap img{
+   height: 230px;
+}
+
+#tax{
+	color:purple; 
+}
+span{
+	color:#88cc00;
+}
+#call{
+	background-color: #88cc00;
+	color: white;
+    margin-top: 5em;
+    font-size: 15px;
+
+}

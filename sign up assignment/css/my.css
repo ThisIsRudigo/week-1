@@ -1,0 +1,29 @@
+#head{
+	background-color: orange;
+	color: yellow;
+	border-bottom: 1px solid white;
+}
+
+.col-xs-8{
+
+    background-color: #001a33;
+    color: yellow;
+    height: 640px;
+}
+
+.form-horizontal{
+	margin-top: 20px;
+}
+
+#footer{
+	 background-color: orange;
+	 border-top: 1px solid white;
+	 margin-left: 0.4px;
+	 margin-top: 37px;
+	 padding-left: 75%;
+	 height: 55px;	
+}
+
+.btn{
+ 	margin-top: 10px;
+}

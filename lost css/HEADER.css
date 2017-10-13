@@ -1,0 +1,52 @@
+nav{
+ background-color:white;
+ color:black;	
+}
+.navbar-brand{
+    color: black; 
+}
+.navbar-brand:hover{
+	color:black; 
+}
+.navbar-right a{
+	color:black; 
+}
+.navbar-right a:hover{
+	background-color:white;
+}
+.navbar-right a:active{
+  background-color:white;
+  color:#80bfff; 
+}
+span{
+  color:#80bfff;
+}
+i{
+  margin-left:3em;
+  margin-top:0.5em; 
+}
+.innerDiv{
+   background-color:#f2f2f2;
+   height:18em;
+   margin-top:5em;
+   padding-top:0.9em;    
+}
+.innerDiv p{
+  margin-top:2em; 
+}
+.innerDiv a{
+  background-color:#80bfff;
+  color:white;
+  height:3.1em;
+  text-decoration:none;
+  padding-top:0.9em;    
+}
+.image{
+	 height:350px;  
+     background-image: url(asernal.jpg);
+     background-size:100%;
+}
+h2{
+  margin-top:2.7em; 
+}
+
